@@ -23,4 +23,13 @@ thead{
     background-color:rgba(128, 128, 128, 0.548);
 }
 
+.editar{
+    color: white;
+    background-color: green;
+}
 
+button{
+    color: white;
+    background-color: red;
+    text-transform: uppercase;
+}
